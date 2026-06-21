@@ -1,0 +1,1714 @@
+    {
+      "path": "2023/releve_CCP1655391E037_20231212",
+      "status": "extracted",
+      "hint_period_end": "2023-12-12",
+      "rows": 118,
+      "structure": {
+        "source_path": "2023/releve_CCP1655391E037_20231212",
+        "hint_period_end": "2023-12-12",
+        "rows": [
+          {
+            "page": 1,
+            "y": 745.8000000000001,
+            "cells": [
+              {
+                "x": 407.03999999999996,
+                "t": "Relevé édité le"
+              },
+              {
+                "x": 466.32,
+                "t": "13 décembre 2023"
+              }
+            ],
+            "text": "Relevé édité le 13 décembre 2023"
+          },
+          {
+            "page": 1,
+            "y": 741.4000000000001,
+            "cells": [
+              {
+                "x": 52.32,
+                "t": "Relevé de vos comptes - n° 12"
+              }
+            ],
+            "text": "Relevé de vos comptes - n° 12"
+          },
+          {
+            "page": 1,
+            "y": 728.2,
+            "cells": [
+              {
+                "x": 52.32,
+                "t": "> Périodicité mensuelle"
+              }
+            ],
+            "text": "> Périodicité mensuelle"
+          },
+          {
+            "page": 1,
+            "y": 704,
+            "cells": [
+              {
+                "x": 49.68,
+                "t": "Vos"
+              },
+              {
+                "x": 97.92,
+                "t": "Votre identifiant : 5256520157"
+              }
+            ],
+            "text": "Vos Votre identifiant : 5256520157"
+          },
+          {
+            "page": 1,
+            "y": 693,
+            "cells": [
+              {
+                "x": 49.68,
+                "t": "Comptes"
+              },
+              {
+                "x": 97.92,
+                "t": "> Internet"
+              },
+              {
+                "x": 136.79999999999998,
+                "t": "(1)"
+              },
+              {
+                "x": 145.44,
+                "t": ", appli tablette et mobile"
+              },
+              {
+                "x": 240.72,
+                "t": "(2)"
+              }
+            ],
+            "text": "Comptes > Internet (1) , appli tablette et mobile (2)"
+          },
+          {
+            "page": 1,
+            "y": 684.2,
+            "cells": [
+              {
+                "x": 225.12,
+                "t": "(3)"
+              }
+            ],
+            "text": "(3)"
+          },
+          {
+            "page": 1,
+            "y": 682,
+            "cells": [
+              {
+                "x": 49.68,
+                "t": "24h/24"
+              },
+              {
+                "x": 97.92,
+                "t": "> Serveur vocal : 09 69 39 36 39"
+              }
+            ],
+            "text": "24h/24 > Serveur vocal : 09 69 39 36 39"
+          },
+          {
+            "page": 1,
+            "y": 662.2,
+            "cells": [
+              {
+                "x": 49.68,
+                "t": "Votre"
+              },
+              {
+                "x": 97.92,
+                "t": "> Téléphone : 36 39"
+              },
+              {
+                "x": 174,
+                "t": "(4)"
+              }
+            ],
+            "text": "Votre > Téléphone : 36 39 (4)"
+          },
+          {
+            "page": 1,
+            "y": 651.2,
+            "cells": [
+              {
+                "x": 49.68,
+                "t": "Service"
+              },
+              {
+                "x": 97.92,
+                "t": "> Courrier :"
+              },
+              {
+                "x": 147.35999999999999,
+                "t": "LA BANQUE POSTALE"
+              }
+            ],
+            "text": "Service > Courrier : LA BANQUE POSTALE"
+          },
+          {
+            "page": 1,
+            "y": 640.2,
+            "cells": [
+              {
+                "x": 49.68,
+                "t": "Clients"
+              },
+              {
+                "x": 147.35999999999999,
+                "t": "33900 BORDEAUX CEDEX 9"
+              }
+            ],
+            "text": "Clients 33900 BORDEAUX CEDEX 9"
+          },
+          {
+            "page": 1,
+            "y": 635.8000000000001,
+            "cells": [
+              {
+                "x": 323.03999999999996,
+                "t": "MR COLLOT GABRIEL"
+              }
+            ],
+            "text": "MR COLLOT GABRIEL"
+          },
+          {
+            "page": 1,
+            "y": 627,
+            "cells": [
+              {
+                "x": 323.03999999999996,
+                "t": "14 IMPASSE DE LA MARINIE"
+              }
+            ],
+            "text": "14 IMPASSE DE LA MARINIE"
+          },
+          {
+            "page": 1,
+            "y": 620.4000000000001,
+            "cells": [
+              {
+                "x": 97.92,
+                "t": "M ESPIE RENAUD"
+              }
+            ],
+            "text": "M ESPIE RENAUD"
+          },
+          {
+            "page": 1,
+            "y": 616,
+            "cells": [
+              {
+                "x": 49.68,
+                "t": "Votre"
+              },
+              {
+                "x": 323.03999999999996,
+                "t": "81450 LE GARRIC"
+              }
+            ],
+            "text": "Votre 81450 LE GARRIC"
+          },
+          {
+            "page": 1,
+            "y": 611.6,
+            "cells": [
+              {
+                "x": 252,
+                "t": "(1)"
+              }
+            ],
+            "text": "(1)"
+          },
+          {
+            "page": 1,
+            "y": 609.4000000000001,
+            "cells": [
+              {
+                "x": 97.92,
+                "t": "> Messagerie depuis votre Espace Client"
+              }
+            ],
+            "text": "> Messagerie depuis votre Espace Client"
+          },
+          {
+            "page": 1,
+            "y": 605,
+            "cells": [
+              {
+                "x": 49.68,
+                "t": "conseiller"
+              }
+            ],
+            "text": "conseiller"
+          },
+          {
+            "page": 1,
+            "y": 600.6,
+            "cells": [
+              {
+                "x": 210.72,
+                "t": "(3)"
+              }
+            ],
+            "text": "(3)"
+          },
+          {
+            "page": 1,
+            "y": 598.4000000000001,
+            "cells": [
+              {
+                "x": 97.92,
+                "t": "> Téléphone : 05 81 40 20 32"
+              }
+            ],
+            "text": "> Téléphone : 05 81 40 20 32"
+          },
+          {
+            "page": 1,
+            "y": 554.4000000000001,
+            "cells": [
+              {
+                "x": 55.919999999999995,
+                "t": "Vous avez adhéré au contrat d'assurance Alliatys, vous pouvez retrouver également vos garanties sur le"
+              }
+            ],
+            "text": "Vous avez adhéré au contrat d'assurance Alliatys, vous pouvez retrouver également vos garanties sur le"
+          },
+          {
+            "page": 1,
+            "y": 543.4000000000001,
+            "cells": [
+              {
+                "x": 55.919999999999995,
+                "t": "site internet de La Banque Postale www.labanquepostale.fr."
+              }
+            ],
+            "text": "site internet de La Banque Postale www.labanquepostale.fr."
+          },
+          {
+            "page": 1,
+            "y": 534.6,
+            "cells": [
+              {
+                "x": 55.919999999999995,
+                "t": "Conformément à la loi du 17 mars 2014 relative à la consommation, vous disposez du droit de résilier votre adhésion à tout moment, sans frais,"
+              }
+            ],
+            "text": "Conformément à la loi du 17 mars 2014 relative à la consommation, vous disposez du droit de résilier votre adhésion à tout moment, sans frais,"
+          },
+          {
+            "page": 1,
+            "y": 523.6,
+            "cells": [
+              {
+                "x": 55.919999999999995,
+                "t": "ni pénalités, dès le lendemain de sa première date anniversaire."
+              }
+            ],
+            "text": "ni pénalités, dès le lendemain de sa première date anniversaire."
+          },
+          {
+            "page": 1,
+            "y": 475.20000000000005,
+            "cells": [
+              {
+                "x": 52.559999999999995,
+                "t": "Situation de vos comptes"
+              },
+              {
+                "x": 215.51999999999998,
+                "t": "au 12 décembre 2023"
+              },
+              {
+                "x": 520.3199999999999,
+                "t": "Solde"
+              }
+            ],
+            "text": "Situation de vos comptes au 12 décembre 2023 Solde"
+          },
+          {
+            "page": 1,
+            "y": 459.8,
+            "cells": [
+              {
+                "x": 52.559999999999995,
+                "t": "CCP n°"
+              },
+              {
+                "x": 86.16,
+                "t": "16 553 91 E 037"
+              },
+              {
+                "x": 479.52,
+                "t": "+ 1 868,35 ¤"
+              }
+            ],
+            "text": "CCP n° 16 553 91 E 037 + 1 868,35 ¤"
+          },
+          {
+            "page": 1,
+            "y": 442.20000000000005,
+            "cells": [
+              {
+                "x": 52.559999999999995,
+                "t": "Livret A n°"
+              },
+              {
+                "x": 103.92,
+                "t": "102 2424260 T"
+              },
+              {
+                "x": 479.52,
+                "t": "+ 3 003,66 ¤"
+              }
+            ],
+            "text": "Livret A n° 102 2424260 T + 3 003,66 ¤"
+          },
+          {
+            "page": 1,
+            "y": 426.8,
+            "cells": [
+              {
+                "x": 52.559999999999995,
+                "t": "Livret Jeune Swing n°"
+              },
+              {
+                "x": 154.32,
+                "t": "755 4050880 V"
+              },
+              {
+                "x": 479.52,
+                "t": "+ 1 351,67 ¤"
+              }
+            ],
+            "text": "Livret Jeune Swing n° 755 4050880 V + 1 351,67 ¤"
+          },
+          {
+            "page": 1,
+            "y": 365.20000000000005,
+            "cells": [
+              {
+                "x": 53.76,
+                "t": "Compte Courant Postal"
+              },
+              {
+                "x": 201.6,
+                "t": "n° 16 553 91E 037"
+              }
+            ],
+            "text": "Compte Courant Postal n° 16 553 91E 037"
+          },
+          {
+            "page": 1,
+            "y": 354.20000000000005,
+            "cells": [
+              {
+                "x": 53.76,
+                "t": "IBAN : FR22 2004 1010 1616 5539 1E03 703 | BIC : PSSTFRPPTOU"
+              }
+            ],
+            "text": "IBAN : FR22 2004 1010 1616 5539 1E03 703 | BIC : PSSTFRPPTOU"
+          },
+          {
+            "page": 1,
+            "y": 343.20000000000005,
+            "cells": [
+              {
+                "x": 53.76,
+                "t": "> Découvert autorisé au 12/12/2023 : 200,00 ¤"
+              },
+              {
+                "x": 238.32,
+                "t": "(à régulariser sous 30 jours). Pour information, l'utilisation d'un découvert de 1 500,00 ¤"
+              }
+            ],
+            "text": "> Découvert autorisé au 12/12/2023 : 200,00 ¤ (à régulariser sous 30 jours). Pour information, l'utilisation d'un découvert de 1 500,00 ¤"
+          },
+          {
+            "page": 1,
+            "y": 334.40000000000003,
+            "cells": [
+              {
+                "x": 53.76,
+                "t": "pendant une durée de 30 jours avec un taux nominal annuel de 16,00 % correspond à un TAEG de 18,79 % (1). L'utilisation d'un découvert de"
+              }
+            ],
+            "text": "pendant une durée de 30 jours avec un taux nominal annuel de 16,00 % correspond à un TAEG de 18,79 % (1). L'utilisation d'un découvert de"
+          },
+          {
+            "page": 1,
+            "y": 325.6,
+            "cells": [
+              {
+                "x": 53.76,
+                "t": "1 500,00 ¤ pendant une durée de 30 jours avec un taux nominal annuel de 15,00 % correspond à un TAEG de 17,60 % (1)."
+              }
+            ],
+            "text": "1 500,00 ¤ pendant une durée de 30 jours avec un taux nominal annuel de 15,00 % correspond à un TAEG de 17,60 % (1)."
+          },
+          {
+            "page": 1,
+            "y": 314.6,
+            "cells": [
+              {
+                "x": 53.76,
+                "t": "(1) Le TAEG réellement appliqué dépend de l’utilisation effective du découvert."
+              }
+            ],
+            "text": "(1) Le TAEG réellement appliqué dépend de l’utilisation effective du découvert."
+          },
+          {
+            "page": 1,
+            "y": 305.8,
+            "cells": [
+              {
+                "x": 53.76,
+                "t": "> Avantage FORMULE DE COMPTE : jusqu'à 6,00 ¤ par trimestre, vos intérêts débiteurs ne vous sont pas facturés."
+              }
+            ],
+            "text": "> Avantage FORMULE DE COMPTE : jusqu'à 6,00 ¤ par trimestre, vos intérêts débiteurs ne vous sont pas facturés."
+          },
+          {
+            "page": 1,
+            "y": 294.8,
+            "cells": [
+              {
+                "x": 61.231996128000006,
+                "t": "(Seuil en vigueur au 01/07/2010)"
+              }
+            ],
+            "text": "(Seuil en vigueur au 01/07/2010)"
+          },
+          {
+            "page": 1,
+            "y": 270.6,
+            "cells": [
+              {
+                "x": 53.76,
+                "t": "Date"
+              },
+              {
+                "x": 86.16,
+                "t": "Opérations"
+              },
+              {
+                "x": 433.44,
+                "t": "Débit (¤)"
+              },
+              {
+                "x": 506.64,
+                "t": "Crédit (¤)"
+              }
+            ],
+            "text": "Date Opérations Débit (¤) Crédit (¤)"
+          },
+          {
+            "page": 1,
+            "y": 250.8,
+            "cells": [
+              {
+                "x": 272.15999999999997,
+                "t": "Ancien solde au 10/11/2023"
+              },
+              {
+                "x": 496.79999999999995,
+                "t": "3 551,51"
+              }
+            ],
+            "text": "Ancien solde au 10/11/2023 3 551,51"
+          },
+          {
+            "page": 1,
+            "y": 233.20000000000002,
+            "cells": [
+              {
+                "x": 53.76,
+                "t": "13/11"
+              },
+              {
+                "x": 86.16,
+                "t": "ACHAT CB SDG PONTIE 11.11.23"
+              },
+              {
+                "x": 445.68,
+                "t": "5,00"
+              }
+            ],
+            "text": "13/11 ACHAT CB SDG PONTIE 11.11.23 5,00"
+          },
+          {
+            "page": 1,
+            "y": 224.4,
+            "cells": [
+              {
+                "x": 86.16,
+                "t": "CARTE NUMERO 638"
+              }
+            ],
+            "text": "CARTE NUMERO 638"
+          },
+          {
+            "page": 1,
+            "y": 213.4,
+            "cells": [
+              {
+                "x": 53.76,
+                "t": "13/11"
+              },
+              {
+                "x": 86.16,
+                "t": "ACHAT CB PETROLEC-SUD 12.11.23"
+              },
+              {
+                "x": 440.64,
+                "t": "15,06"
+              }
+            ],
+            "text": "13/11 ACHAT CB PETROLEC-SUD 12.11.23 15,06"
+          },
+          {
+            "page": 1,
+            "y": 202.4,
+            "cells": [
+              {
+                "x": 86.16,
+                "t": "CARTE NUMERO 638"
+              }
+            ],
+            "text": "CARTE NUMERO 638"
+          },
+          {
+            "page": 1,
+            "y": 191.4,
+            "cells": [
+              {
+                "x": 53.76,
+                "t": "15/11"
+              },
+              {
+                "x": 86.16,
+                "t": "PRELEVEMENT DE BASIC FIT II SA"
+              },
+              {
+                "x": 440.64,
+                "t": "19,99"
+              }
+            ],
+            "text": "15/11 PRELEVEMENT DE BASIC FIT II SA 19,99"
+          },
+          {
+            "page": 1,
+            "y": 182.60000000000002,
+            "cells": [
+              {
+                "x": 86.16,
+                "t": "REF : NO597018501-0114 IDENT : FR10ZZZ642164 MANDAT : 597018501"
+              }
+            ],
+            "text": "REF : NO597018501-0114 IDENT : FR10ZZZ642164 MANDAT : 597018501"
+          },
+          {
+            "page": 1,
+            "y": 171.60000000000002,
+            "cells": [
+              {
+                "x": 53.76,
+                "t": "16/11"
+              },
+              {
+                "x": 86.16,
+                "t": "VIREMENT DE T2P"
+              },
+              {
+                "x": 516.24,
+                "t": "93,16"
+              }
+            ],
+            "text": "16/11 VIREMENT DE T2P 93,16"
+          },
+          {
+            "page": 1,
+            "y": 160.60000000000002,
+            "cells": [
+              {
+                "x": 86.16,
+                "t": "032023319181258250000002 SOLDE PAIE OCTOBRE 2023"
+              }
+            ],
+            "text": "032023319181258250000002 SOLDE PAIE OCTOBRE 2023"
+          },
+          {
+            "page": 1,
+            "y": 151.8,
+            "cells": [
+              {
+                "x": 86.16,
+                "t": "REFERENCE : 0190319300123001"
+              }
+            ],
+            "text": "REFERENCE : 0190319300123001"
+          },
+          {
+            "page": 1,
+            "y": 140.8,
+            "cells": [
+              {
+                "x": 53.76,
+                "t": "16/11"
+              },
+              {
+                "x": 86.16,
+                "t": "ACHAT CB MAGASIN U 15.11.23"
+              },
+              {
+                "x": 440.64,
+                "t": "10,76"
+              }
+            ],
+            "text": "16/11 ACHAT CB MAGASIN U 15.11.23 10,76"
+          },
+          {
+            "page": 1,
+            "y": 132,
+            "cells": [
+              {
+                "x": 86.16,
+                "t": "CARTE NUMERO 638"
+              }
+            ],
+            "text": "CARTE NUMERO 638"
+          },
+          {
+            "page": 1,
+            "y": 121.00000000000001,
+            "cells": [
+              {
+                "x": 53.76,
+                "t": "20/11"
+              },
+              {
+                "x": 86.16,
+                "t": "ACHAT CB CARREFOUR CITY 19.11.23"
+              },
+              {
+                "x": 445.68,
+                "t": "1,60"
+              }
+            ],
+            "text": "20/11 ACHAT CB CARREFOUR CITY 19.11.23 1,60"
+          },
+          {
+            "page": 1,
+            "y": 110.00000000000001,
+            "cells": [
+              {
+                "x": 86.16,
+                "t": "CARTE NUMERO 638"
+              }
+            ],
+            "text": "CARTE NUMERO 638"
+          },
+          {
+            "page": 1,
+            "y": 99.00000000000001,
+            "cells": [
+              {
+                "x": 53.76,
+                "t": "20/11"
+              },
+              {
+                "x": 86.16,
+                "t": "ACHAT CB TISSEO-REGIE A 18.11.23"
+              },
+              {
+                "x": 445.68,
+                "t": "1,80"
+              }
+            ],
+            "text": "20/11 ACHAT CB TISSEO-REGIE A 18.11.23 1,80"
+          },
+          {
+            "page": 1,
+            "y": 90.2,
+            "cells": [
+              {
+                "x": 86.16,
+                "t": "CARTE NUMERO 638"
+              }
+            ],
+            "text": "CARTE NUMERO 638"
+          },
+          {
+            "page": 1,
+            "y": 79.2,
+            "cells": [
+              {
+                "x": 53.76,
+                "t": "20/11"
+              },
+              {
+                "x": 86.16,
+                "t": "ACHAT CB TISSEO-REGIE A 18.11.23"
+              },
+              {
+                "x": 445.68,
+                "t": "3,60"
+              }
+            ],
+            "text": "20/11 ACHAT CB TISSEO-REGIE A 18.11.23 3,60"
+          },
+          {
+            "page": 1,
+            "y": 70.4,
+            "cells": [
+              {
+                "x": 86.16,
+                "t": "CARTE NUMERO 638"
+              }
+            ],
+            "text": "CARTE NUMERO 638"
+          },
+          {
+            "page": 1,
+            "y": 19.8,
+            "cells": [
+              {
+                "x": 505.68,
+                "t": "Page"
+              },
+              {
+                "x": 523.68,
+                "t": "1/4"
+              }
+            ],
+            "text": "Page 1/4"
+          },
+          {
+            "page": 2,
+            "y": 739.2,
+            "cells": [
+              {
+                "x": 450,
+                "t": "Relevé n° 12 | 13/12/2023"
+              }
+            ],
+            "text": "Relevé n° 12 | 13/12/2023"
+          },
+          {
+            "page": 2,
+            "y": 730.4000000000001,
+            "cells": [
+              {
+                "x": 468.96,
+                "t": "MR COLLOT GABRIEL"
+              }
+            ],
+            "text": "MR COLLOT GABRIEL"
+          },
+          {
+            "page": 2,
+            "y": 706.2,
+            "cells": [
+              {
+                "x": 53.76,
+                "t": "Vos opérations CCP n° 16 553 91E 037 (suite)"
+              }
+            ],
+            "text": "Vos opérations CCP n° 16 553 91E 037 (suite)"
+          },
+          {
+            "page": 2,
+            "y": 684.2,
+            "cells": [
+              {
+                "x": 53.76,
+                "t": "Date"
+              },
+              {
+                "x": 86.16,
+                "t": "Opérations"
+              },
+              {
+                "x": 433.44,
+                "t": "Débit (¤)"
+              },
+              {
+                "x": 506.64,
+                "t": "Crédit (¤)"
+              }
+            ],
+            "text": "Date Opérations Débit (¤) Crédit (¤)"
+          },
+          {
+            "page": 2,
+            "y": 671,
+            "cells": [
+              {
+                "x": 53.76,
+                "t": "20/11"
+              },
+              {
+                "x": 86.16,
+                "t": "ACHAT CB HOTEL MERC ACC 18.11.23"
+              },
+              {
+                "x": 445.68,
+                "t": "3,90"
+              }
+            ],
+            "text": "20/11 ACHAT CB HOTEL MERC ACC 18.11.23 3,90"
+          },
+          {
+            "page": 2,
+            "y": 660,
+            "cells": [
+              {
+                "x": 86.16,
+                "t": "CARTE NUMERO 638"
+              }
+            ],
+            "text": "CARTE NUMERO 638"
+          },
+          {
+            "page": 2,
+            "y": 649,
+            "cells": [
+              {
+                "x": 53.76,
+                "t": "20/11"
+              },
+              {
+                "x": 86.16,
+                "t": "ACHAT CB CGF17521MONOP4 19.11.23"
+              },
+              {
+                "x": 445.68,
+                "t": "5,30"
+              }
+            ],
+            "text": "20/11 ACHAT CB CGF17521MONOP4 19.11.23 5,30"
+          },
+          {
+            "page": 2,
+            "y": 640.2,
+            "cells": [
+              {
+                "x": 86.16,
+                "t": "CARTE NUMERO 638"
+              }
+            ],
+            "text": "CARTE NUMERO 638"
+          },
+          {
+            "page": 2,
+            "y": 629.2,
+            "cells": [
+              {
+                "x": 53.76,
+                "t": "20/11"
+              },
+              {
+                "x": 86.16,
+                "t": "ACHAT CB SNCF INTERNET 18.11.23"
+              },
+              {
+                "x": 445.91999999999996,
+                "t": "7,20"
+              }
+            ],
+            "text": "20/11 ACHAT CB SNCF INTERNET 18.11.23 7,20"
+          },
+          {
+            "page": 2,
+            "y": 620.4000000000001,
+            "cells": [
+              {
+                "x": 86.16,
+                "t": "CARTE NUMERO 638"
+              }
+            ],
+            "text": "CARTE NUMERO 638"
+          },
+          {
+            "page": 2,
+            "y": 609.4000000000001,
+            "cells": [
+              {
+                "x": 53.76,
+                "t": "20/11"
+              },
+              {
+                "x": 86.16,
+                "t": "ACHAT CB SNCF INTERNET 19.11.23"
+              },
+              {
+                "x": 445.91999999999996,
+                "t": "7,20"
+              }
+            ],
+            "text": "20/11 ACHAT CB SNCF INTERNET 19.11.23 7,20"
+          },
+          {
+            "page": 2,
+            "y": 598.4000000000001,
+            "cells": [
+              {
+                "x": 86.16,
+                "t": "CARTE NUMERO 638"
+              }
+            ],
+            "text": "CARTE NUMERO 638"
+          },
+          {
+            "page": 2,
+            "y": 587.4000000000001,
+            "cells": [
+              {
+                "x": 53.76,
+                "t": "20/11"
+              },
+              {
+                "x": 86.16,
+                "t": "ACHAT CB B.KING WILSON 18.11.23"
+              },
+              {
+                "x": 445.68,
+                "t": "9,00"
+              }
+            ],
+            "text": "20/11 ACHAT CB B.KING WILSON 18.11.23 9,00"
+          },
+          {
+            "page": 2,
+            "y": 578.6,
+            "cells": [
+              {
+                "x": 86.16,
+                "t": "CARTE NUMERO 638"
+              }
+            ],
+            "text": "CARTE NUMERO 638"
+          },
+          {
+            "page": 2,
+            "y": 567.6,
+            "cells": [
+              {
+                "x": 53.76,
+                "t": "20/11"
+              },
+              {
+                "x": 86.16,
+                "t": "VIREMENT POUR"
+              },
+              {
+                "x": 435.84,
+                "t": "200,00"
+              }
+            ],
+            "text": "20/11 VIREMENT POUR 200,00"
+          },
+          {
+            "page": 2,
+            "y": 556.6,
+            "cells": [
+              {
+                "x": 86.16,
+                "t": "EASYBOURSE COMPTE FR7020041000015757176F02060"
+              }
+            ],
+            "text": "EASYBOURSE COMPTE FR7020041000015757176F02060"
+          },
+          {
+            "page": 2,
+            "y": 547.8000000000001,
+            "cells": [
+              {
+                "x": 86.16,
+                "t": "25820231119019999990084732300000000 20006469991 PEA"
+              }
+            ],
+            "text": "25820231119019999990084732300000000 20006469991 PEA"
+          },
+          {
+            "page": 2,
+            "y": 539,
+            "cells": [
+              {
+                "x": 86.16,
+                "t": "REFERENCE : 0258323300847323"
+              }
+            ],
+            "text": "REFERENCE : 0258323300847323"
+          },
+          {
+            "page": 2,
+            "y": 528,
+            "cells": [
+              {
+                "x": 53.76,
+                "t": "21/11"
+              },
+              {
+                "x": 86.16,
+                "t": "ACHAT CB TISSEO-REGIE A 19.11.23"
+              },
+              {
+                "x": 445.68,
+                "t": "1,80"
+              }
+            ],
+            "text": "21/11 ACHAT CB TISSEO-REGIE A 19.11.23 1,80"
+          },
+          {
+            "page": 2,
+            "y": 519.2,
+            "cells": [
+              {
+                "x": 86.16,
+                "t": "CARTE NUMERO 638"
+              }
+            ],
+            "text": "CARTE NUMERO 638"
+          },
+          {
+            "page": 2,
+            "y": 508.20000000000005,
+            "cells": [
+              {
+                "x": 53.76,
+                "t": "22/11"
+              },
+              {
+                "x": 86.16,
+                "t": "ACHAT CB MA FRENCH BANK 21.11.23"
+              },
+              {
+                "x": 440.88,
+                "t": "20,00"
+              }
+            ],
+            "text": "22/11 ACHAT CB MA FRENCH BANK 21.11.23 20,00"
+          },
+          {
+            "page": 2,
+            "y": 497.20000000000005,
+            "cells": [
+              {
+                "x": 86.16,
+                "t": "CARTE NUMERO 638"
+              }
+            ],
+            "text": "CARTE NUMERO 638"
+          },
+          {
+            "page": 2,
+            "y": 486.20000000000005,
+            "cells": [
+              {
+                "x": 53.76,
+                "t": "27/11"
+              },
+              {
+                "x": 86.16,
+                "t": "ACHAT CB ASF TOULOUSE E 25.11.23"
+              },
+              {
+                "x": 445.68,
+                "t": "1,70"
+              }
+            ],
+            "text": "27/11 ACHAT CB ASF TOULOUSE E 25.11.23 1,70"
+          },
+          {
+            "page": 2,
+            "y": 477.40000000000003,
+            "cells": [
+              {
+                "x": 86.16,
+                "t": "CARTE NUMERO 638"
+              }
+            ],
+            "text": "CARTE NUMERO 638"
+          },
+          {
+            "page": 2,
+            "y": 466.40000000000003,
+            "cells": [
+              {
+                "x": 53.76,
+                "t": "27/11"
+              },
+              {
+                "x": 86.16,
+                "t": "ACHAT CB ASF 25.11.23"
+              },
+              {
+                "x": 445.68,
+                "t": "1,70"
+              }
+            ],
+            "text": "27/11 ACHAT CB ASF 25.11.23 1,70"
+          },
+          {
+            "page": 2,
+            "y": 455.40000000000003,
+            "cells": [
+              {
+                "x": 86.16,
+                "t": "CARTE NUMERO 638"
+              }
+            ],
+            "text": "CARTE NUMERO 638"
+          },
+          {
+            "page": 2,
+            "y": 444.40000000000003,
+            "cells": [
+              {
+                "x": 53.76,
+                "t": "27/11"
+              },
+              {
+                "x": 86.16,
+                "t": "ACHAT CB ASF TOULOUSE N 25.11.23"
+              },
+              {
+                "x": 445.68,
+                "t": "5,80"
+              }
+            ],
+            "text": "27/11 ACHAT CB ASF TOULOUSE N 25.11.23 5,80"
+          },
+          {
+            "page": 2,
+            "y": 435.6,
+            "cells": [
+              {
+                "x": 86.16,
+                "t": "CARTE NUMERO 638"
+              }
+            ],
+            "text": "CARTE NUMERO 638"
+          },
+          {
+            "page": 2,
+            "y": 424.6,
+            "cells": [
+              {
+                "x": 53.76,
+                "t": "27/11"
+              },
+              {
+                "x": 86.16,
+                "t": "ACHAT CB ASF VALENCE D' 25.11.23"
+              },
+              {
+                "x": 445.68,
+                "t": "7,80"
+              }
+            ],
+            "text": "27/11 ACHAT CB ASF VALENCE D' 25.11.23 7,80"
+          },
+          {
+            "page": 2,
+            "y": 415.8,
+            "cells": [
+              {
+                "x": 86.16,
+                "t": "CARTE NUMERO 638"
+              }
+            ],
+            "text": "CARTE NUMERO 638"
+          },
+          {
+            "page": 2,
+            "y": 404.8,
+            "cells": [
+              {
+                "x": 53.76,
+                "t": "27/11"
+              },
+              {
+                "x": 86.16,
+                "t": "ACHAT CB CARREFOUR CITY 24.11.23"
+              },
+              {
+                "x": 445.68,
+                "t": "8,03"
+              }
+            ],
+            "text": "27/11 ACHAT CB CARREFOUR CITY 24.11.23 8,03"
+          },
+          {
+            "page": 2,
+            "y": 393.8,
+            "cells": [
+              {
+                "x": 86.16,
+                "t": "CARTE NUMERO 638"
+              }
+            ],
+            "text": "CARTE NUMERO 638"
+          },
+          {
+            "page": 2,
+            "y": 382.8,
+            "cells": [
+              {
+                "x": 53.76,
+                "t": "27/11"
+              },
+              {
+                "x": 86.16,
+                "t": "ACHAT CB PETROLEC-SUD 25.11.23"
+              },
+              {
+                "x": 440.64,
+                "t": "50,00"
+              }
+            ],
+            "text": "27/11 ACHAT CB PETROLEC-SUD 25.11.23 50,00"
+          },
+          {
+            "page": 2,
+            "y": 374.00000000000006,
+            "cells": [
+              {
+                "x": 86.16,
+                "t": "CARTE NUMERO 638"
+              }
+            ],
+            "text": "CARTE NUMERO 638"
+          },
+          {
+            "page": 2,
+            "y": 363.00000000000006,
+            "cells": [
+              {
+                "x": 53.76,
+                "t": "27/11"
+              },
+              {
+                "x": 86.16,
+                "t": "ACHAT CB MA FRENCH BANK 24.11.23"
+              },
+              {
+                "x": 435.59999999999997,
+                "t": "100,00"
+              }
+            ],
+            "text": "27/11 ACHAT CB MA FRENCH BANK 24.11.23 100,00"
+          },
+          {
+            "page": 2,
+            "y": 352,
+            "cells": [
+              {
+                "x": 86.16,
+                "t": "CARTE NUMERO 638"
+              }
+            ],
+            "text": "CARTE NUMERO 638"
+          },
+          {
+            "page": 2,
+            "y": 341,
+            "cells": [
+              {
+                "x": 53.76,
+                "t": "27/11"
+              },
+              {
+                "x": 86.16,
+                "t": "PRELEVEMENT DE BASIC FIT II SA"
+              },
+              {
+                "x": 440.64,
+                "t": "19,99"
+              }
+            ],
+            "text": "27/11 PRELEVEMENT DE BASIC FIT II SA 19,99"
+          },
+          {
+            "page": 2,
+            "y": 332.20000000000005,
+            "cells": [
+              {
+                "x": 86.16,
+                "t": "REF : NO597018501-0115 27-11-2023 / 24-12-2023 IDENT : FR10ZZZ642164"
+              }
+            ],
+            "text": "REF : NO597018501-0115 27-11-2023 / 24-12-2023 IDENT : FR10ZZZ642164"
+          },
+          {
+            "page": 2,
+            "y": 323.40000000000003,
+            "cells": [
+              {
+                "x": 86.16,
+                "t": "MANDAT : 597018501"
+              }
+            ],
+            "text": "MANDAT : 597018501"
+          },
+          {
+            "page": 2,
+            "y": 312.40000000000003,
+            "cells": [
+              {
+                "x": 53.76,
+                "t": "29/11"
+              },
+              {
+                "x": 86.16,
+                "t": "VIREMENT DE AMAZON MEDIA EU S.A.R.L"
+              },
+              {
+                "x": 521.28,
+                "t": "0,39"
+              }
+            ],
+            "text": "29/11 VIREMENT DE AMAZON MEDIA EU S.A.R.L 0,39"
+          },
+          {
+            "page": 2,
+            "y": 301.40000000000003,
+            "cells": [
+              {
+                "x": 86.16,
+                "t": ". FCS001895637462 FCS001895637462 PAYMENT-NUM 2 8099 7665"
+              }
+            ],
+            "text": ". FCS001895637462 FCS001895637462 PAYMENT-NUM 2 8099 7665"
+          },
+          {
+            "page": 2,
+            "y": 292.6,
+            "cells": [
+              {
+                "x": 86.16,
+                "t": "REFERENCE : 0189333300000400"
+              }
+            ],
+            "text": "REFERENCE : 0189333300000400"
+          },
+          {
+            "page": 2,
+            "y": 281.6,
+            "cells": [
+              {
+                "x": 53.76,
+                "t": "04/12"
+              },
+              {
+                "x": 86.16,
+                "t": "ACHAT CB SDG PONTIE 02.12.23"
+              },
+              {
+                "x": 445.68,
+                "t": "4,80"
+              }
+            ],
+            "text": "04/12 ACHAT CB SDG PONTIE 02.12.23 4,80"
+          },
+          {
+            "page": 2,
+            "y": 272.8,
+            "cells": [
+              {
+                "x": 86.16,
+                "t": "CARTE NUMERO 638"
+              }
+            ],
+            "text": "CARTE NUMERO 638"
+          },
+          {
+            "page": 2,
+            "y": 261.8,
+            "cells": [
+              {
+                "x": 53.76,
+                "t": "04/12"
+              },
+              {
+                "x": 86.16,
+                "t": "ACHAT CB CARREFOUR CITY 02.12.23"
+              },
+              {
+                "x": 440.64,
+                "t": "10,04"
+              }
+            ],
+            "text": "04/12 ACHAT CB CARREFOUR CITY 02.12.23 10,04"
+          },
+          {
+            "page": 2,
+            "y": 250.8,
+            "cells": [
+              {
+                "x": 86.16,
+                "t": "CARTE NUMERO 638"
+              }
+            ],
+            "text": "CARTE NUMERO 638"
+          },
+          {
+            "page": 2,
+            "y": 239.8,
+            "cells": [
+              {
+                "x": 53.76,
+                "t": "05/12"
+              },
+              {
+                "x": 86.16,
+                "t": "VIREMENT DE T2P"
+              },
+              {
+                "x": 504,
+                "t": "1 000,00"
+              }
+            ],
+            "text": "05/12 VIREMENT DE T2P 1 000,00"
+          },
+          {
+            "page": 2,
+            "y": 231.00000000000003,
+            "cells": [
+              {
+                "x": 86.16,
+                "t": "032023337289388510000007 ACOMPTE PAIE 11 2023 REFERENCE : 0190338300132001"
+              }
+            ],
+            "text": "032023337289388510000007 ACOMPTE PAIE 11 2023 REFERENCE : 0190338300132001"
+          },
+          {
+            "page": 2,
+            "y": 220.00000000000003,
+            "cells": [
+              {
+                "x": 53.76,
+                "t": "05/12"
+              },
+              {
+                "x": 86.16,
+                "t": "ACHAT CB MA FRENCH BANK 04.12.23"
+              },
+              {
+                "x": 435.59999999999997,
+                "t": "160,00"
+              }
+            ],
+            "text": "05/12 ACHAT CB MA FRENCH BANK 04.12.23 160,00"
+          },
+          {
+            "page": 2,
+            "y": 211.20000000000002,
+            "cells": [
+              {
+                "x": 86.16,
+                "t": "CARTE NUMERO 638"
+              }
+            ],
+            "text": "CARTE NUMERO 638"
+          },
+          {
+            "page": 2,
+            "y": 200.20000000000002,
+            "cells": [
+              {
+                "x": 53.76,
+                "t": "07/12"
+              },
+              {
+                "x": 86.16,
+                "t": "VIREMENT DE T2P"
+              },
+              {
+                "x": 511.44,
+                "t": "608,20"
+              }
+            ],
+            "text": "07/12 VIREMENT DE T2P 608,20"
+          },
+          {
+            "page": 2,
+            "y": 189.20000000000002,
+            "cells": [
+              {
+                "x": 86.16,
+                "t": "032023340308167160000007 Solde paie 11 2023 REFERENCE : 0190340300125001"
+              }
+            ],
+            "text": "032023340308167160000007 Solde paie 11 2023 REFERENCE : 0190340300125001"
+          },
+          {
+            "page": 2,
+            "y": 178.20000000000002,
+            "cells": [
+              {
+                "x": 53.76,
+                "t": "07/12"
+              },
+              {
+                "x": 86.16,
+                "t": "VIREMENT POUR"
+              },
+              {
+                "x": 428.4,
+                "t": "1 500,00"
+              }
+            ],
+            "text": "07/12 VIREMENT POUR 1 500,00"
+          },
+          {
+            "page": 2,
+            "y": 169.4,
+            "cells": [
+              {
+                "x": 86.16,
+                "t": "M COLLOT GABRIEL COMPTE FR0210011000201022424260T78 DEFAULT"
+              }
+            ],
+            "text": "M COLLOT GABRIEL COMPTE FR0210011000201022424260T78 DEFAULT"
+          },
+          {
+            "page": 2,
+            "y": 160.60000000000002,
+            "cells": [
+              {
+                "x": 86.16,
+                "t": "REFERENCE : 0329340336315402"
+              }
+            ],
+            "text": "REFERENCE : 0329340336315402"
+          },
+          {
+            "page": 2,
+            "y": 149.60000000000002,
+            "cells": [
+              {
+                "x": 53.76,
+                "t": "07/12"
+              },
+              {
+                "x": 86.16,
+                "t": "VIREMENT POUR"
+              },
+              {
+                "x": 435.59999999999997,
+                "t": "600,00"
+              }
+            ],
+            "text": "07/12 VIREMENT POUR 600,00"
+          },
+          {
+            "page": 2,
+            "y": 138.60000000000002,
+            "cells": [
+              {
+                "x": 86.16,
+                "t": "M COLLOT GABRIEL COMPTE FR4010011000207554050880V51 DEFAULT"
+              }
+            ],
+            "text": "M COLLOT GABRIEL COMPTE FR4010011000207554050880V51 DEFAULT"
+          },
+          {
+            "page": 2,
+            "y": 129.8,
+            "cells": [
+              {
+                "x": 86.16,
+                "t": "REFERENCE : 0329340336315004"
+              }
+            ],
+            "text": "REFERENCE : 0329340336315004"
+          },
+          {
+            "page": 2,
+            "y": 118.80000000000001,
+            "cells": [
+              {
+                "x": 53.76,
+                "t": "11/12"
+              },
+              {
+                "x": 86.16,
+                "t": "ACHAT CB LECLERC LESCUR 09.12.23"
+              },
+              {
+                "x": 445.91999999999996,
+                "t": "2,84"
+              }
+            ],
+            "text": "11/12 ACHAT CB LECLERC LESCUR 09.12.23 2,84"
+          },
+          {
+            "page": 2,
+            "y": 110.00000000000001,
+            "cells": [
+              {
+                "x": 86.16,
+                "t": "CARTE NUMERO 638"
+              }
+            ],
+            "text": "CARTE NUMERO 638"
+          },
+          {
+            "page": 2,
+            "y": 99.00000000000001,
+            "cells": [
+              {
+                "x": 53.76,
+                "t": "11/12"
+              },
+              {
+                "x": 86.16,
+                "t": "ACHAT CB MA FRENCH BANK 09.12.23"
+              },
+              {
+                "x": 435.84,
+                "t": "250,00"
+              }
+            ],
+            "text": "11/12 ACHAT CB MA FRENCH BANK 09.12.23 250,00"
+          },
+          {
+            "page": 2,
+            "y": 88,
+            "cells": [
+              {
+                "x": 86.16,
+                "t": "CARTE NUMERO 638"
+              }
+            ],
+            "text": "CARTE NUMERO 638"
+          },
+          {
+            "page": 2,
+            "y": 19.8,
+            "cells": [
+              {
+                "x": 52.32,
+                "t": "Il vous est conseillé de conserver ce relevé."
+              },
+              {
+                "x": 505.68,
+                "t": "Page"
+              },
+              {
+                "x": 523.68,
+                "t": "2/4"
+              }
+            ],
+            "text": "Il vous est conseillé de conserver ce relevé. Page 2/4"
+          }
+        ]
+      }
+    }

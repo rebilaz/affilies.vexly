@@ -1,0 +1,15 @@
+| Section                                 | Objectif                                                                                                                                |
+| --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| **1. Hero section**                     | Faire comprendre en 3 secondes ce que tu proposes, pour qui, et pourquoi c’est intéressant. Inclure une promesse forte + CTA principal. |
+| **2. Problème / douleur client**        | Montrer que tu comprends le besoin du visiteur. Créer l’identification : “c’est exactement mon problème”.                               |
+| **3. Solution / proposition de valeur** | Expliquer comment ton offre résout le problème de façon claire, concrète et différenciante.                                             |
+| **4. Bénéfices clés**                   | Transformer les fonctionnalités en résultats : gain de temps, croissance, automatisation, réduction des coûts, meilleure UX, etc.       |
+| **5. Preuves / logos clients**          | Rassurer immédiatement avec de la crédibilité : clients, partenaires, certifications, chiffres, médias, labels.                         |
+| **6. Services / fonctionnalités**       | Détailler ce que tu proposes, sans noyer l’utilisateur. Chaque service doit répondre à un besoin précis.                                |
+| **7. Cas clients / réalisations**       | Prouver que tu sais livrer. Montrer des exemples concrets, idéalement avec contexte, solution et résultat.                              |
+| **8. Process / méthode**                | Rassurer sur la manière de travailler : étapes, délais, accompagnement, livrables. Réduit la peur de l’inconnu.                         |
+| **9. Différenciation**                  | Expliquer pourquoi te choisir toi plutôt qu’un concurrent : spécialisation, rapidité, expertise, approche produit, IA, design, etc.     |
+| **10. Témoignages**                     | Ajouter une preuve humaine. Les avis clients renforcent la confiance et diminuent le risque perçu.                                      |
+| **11. FAQ**                             | Lever les objections avant le contact : prix, délais, accompagnement, maintenance, propriété du code, technologies, etc.                |
+| **12. CTA final**                       | Convertir. Répéter l’action principale avec un message clair : prendre rendez-vous, demander un devis, réserver un audit.               |
+| **13. Footer**                          | Donner les infos de réassurance : contact, liens utiles, mentions légales, réseaux, navigation secondaire.                              |
