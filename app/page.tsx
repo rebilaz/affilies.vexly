@@ -9,7 +9,7 @@ export async function generateMetadata(): Promise<Metadata> {
     title: landingcontent.seo.title,
     description: landingcontent.seo.description,
     alternates: {
-      canonical: "/",
+      canonical: "/affiliation/",
     },
   };
 }
