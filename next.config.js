@@ -1,64 +1,91 @@
-/** @type {import('next').NextConfig} */
+/** @type {import("next").NextConfig} */
+
 const fs = require("fs");
 const path = require("path");
 
 function loadGeneratedRedirects() {
   try {
-    // Fichier généré par ta function Supabase
-    const p = path.join(process.cwd(), "redirects.generated.json");
-    if (!fs.existsSync(p)) return [];
+    // Fichier généré par ta fonction Supabase
+    const filePath = path.join(
+      process.cwd(),
+      "redirects.generated.json",
+    );
 
-    const raw = fs.readFileSync(p, "utf8");
-    const arr = JSON.parse(raw);
+    if (!fs.existsSync(filePath)) {
+      return [];
+    }
 
-    // Format attendu: [{ from: "/articles/old", to: "/articles/new" }, ...]
-    if (!Array.isArray(arr)) return [];
+    const raw = fs.readFileSync(filePath, "utf8");
+    const redirects = JSON.parse(raw);
 
-    return arr
+    if (!Array.isArray(redirects)) {
+      return [];
+    }
+
+    return redirects
       .filter(
-        (r) =>
-          r &&
-          r.status === 301 &&
-          typeof r.from === "string" &&
-          typeof r.to === "string"
+        (redirect) =>
+          redirect &&
+          redirect.status === 301 &&
+          typeof redirect.from === "string" &&
+          typeof redirect.to === "string",
       )
-      .map((r) => ({
-        source: r.from,
-        destination: r.to,
+      .map((redirect) => ({
+        source: redirect.from,
+        destination: redirect.to,
         permanent: true,
       }));
-  } catch {
+  } catch (error) {
+    console.error(
+      "Impossible de charger redirects.generated.json :",
+      error,
+    );
+
     return [];
   }
 }
 
 const nextConfig = {
+  // Monte tout le repo Affiliés sous /affiliation
+  basePath: "/affiliation",
+
   images: {
-    remotePatterns: [{ protocol: "https", hostname: "**" }],
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "**",
+      },
+    ],
   },
 
   async redirects() {
     const generated = loadGeneratedRedirects();
 
     return [
-      // ✅ 1) Redirect host apex -> www
+      // Redirection du domaine apex vers www
       {
         source: "/:path*",
-        has: [{ type: "host", value: "vexly.fr" }],
+        has: [
+          {
+            type: "host",
+            value: "vexly.fr",
+          },
+        ],
         destination: "https://www.vexly.fr/:path*",
         permanent: true,
       },
 
-      // ✅ 2) Redirects SEO (fusion/cannibalisation) générés depuis ta DB
+      // Redirections SEO générées depuis la base de données
       ...generated,
     ];
   },
 
-  // ✅ IMPORTANT: embarque content/ en prod (standalone / tracing)
   output: "standalone",
+
   outputFileTracingIncludes: {
     "/*": ["content/**/*"],
   },
 };
 
 module.exports = nextConfig;
+
