@@ -1,0 +1,169 @@
+
+{
+  "_type": "landingPage",
+  "seo": {
+    "title": "Vexly Affiliés — La marketplace d’affiliation SaaS",
+    "description": "Vexly met en relation les créateurs de contenu et les éditeurs SaaS autour de programmes d’affiliation à forte valeur."
+  },
+  "hero": {
+    "eyebrow": "La marketplace d’affiliation SaaS",
+    "titleline1": "Les meilleurs SaaS rencontrent",
+    "titlehighlight": "les bons créateurs.",
+    "description": "Vexly aide les créateurs à trouver des programmes d’affiliation SaaS pertinents et permet aux éditeurs de faire découvrir leurs produits à de nouvelles audiences."
+  },
+  "projection": {
+    "title": "Une recommandation peut créer des revenus récurrents",
+    "description": "Lorsqu’un créateur recommande un SaaS à la bonne audience, l’éditeur gagne de nouveaux clients et le créateur peut percevoir une commission récurrente.",
+    "clients": 20,
+    "price": 49
+  },
+  "problems": {
+    "title": "L’affiliation SaaS reste difficile à développer",
+    "description": "Les créateurs et les éditeurs veulent travailler ensemble, mais ils ont encore du mal à se trouver et à comparer les bonnes opportunités.",
+    "items": [
+      {
+        "_key": "programmes-disperses",
+        "_type": "object",
+        "icon": "Ban",
+        "title": "Les programmes sont dispersés",
+        "description": "Les créateurs doivent parcourir de nombreux sites pour trouver des programmes réellement adaptés à leur audience."
+      },
+      {
+        "_key": "manque-visibilite",
+        "_type": "object",
+        "icon": "TrendingDown",
+        "title": "Les bons SaaS manquent de visibilité",
+        "description": "De nombreux éditeurs disposent d’un programme attractif, mais peinent à atteindre des créateurs capables de le promouvoir."
+      },
+      {
+        "_key": "informations-incompletes",
+        "_type": "object",
+        "icon": "ShieldAlert",
+        "title": "Les offres sont difficiles à comparer",
+        "description": "Commission, durée du cookie, audience cible et conditions sont rarement présentées de manière claire et homogène."
+      }
+    ]
+  },
+  "features": {
+    "title": "Une marketplace conçue pour les deux côtés",
+    "description": "Vexly simplifie la découverte, la comparaison et la mise en relation entre les créateurs et les éditeurs SaaS.",
+    "items": [
+      {
+        "_key": "marketplace",
+        "_type": "object",
+        "icon": "Rocket",
+        "label": "Une marketplace dédiée aux programmes SaaS"
+      },
+      {
+        "_key": "recherche-ciblee",
+        "_type": "object",
+        "icon": "Target",
+        "label": "Des programmes classés par audience et catégorie"
+      },
+      {
+        "_key": "commissions",
+        "_type": "object",
+        "icon": "CreditCard",
+        "label": "Des commissions et conditions présentées clairement"
+      },
+      {
+        "_key": "fiches-detaillees",
+        "_type": "object",
+        "icon": "Settings",
+        "label": "Une fiche détaillée pour chaque SaaS"
+      },
+      {
+        "_key": "responsive",
+        "_type": "object",
+        "icon": "MonitorSmartphone",
+        "label": "Une expérience simple sur mobile et ordinateur"
+      },
+      {
+        "_key": "acces-programmes",
+        "_type": "object",
+        "icon": "Server",
+        "label": "Un accès direct aux programmes d’affiliation"
+      }
+    ]
+  },
+  "method": {
+    "title": "Comment fonctionne Vexly ?",
+    "description": "Un parcours simple pour découvrir, publier et rejoindre des programmes d’affiliation SaaS.",
+    "steps": [
+      {
+        "_key": "decouvrir",
+        "_type": "object",
+        "week": "Étape 1",
+        "title": "Les éditeurs référencent leur SaaS",
+        "description": "Ils présentent leur produit, leur audience cible, leur commission et les conditions de leur programme d’affiliation."
+      },
+      {
+        "_key": "verifier",
+        "_type": "object",
+        "week": "Étape 2",
+        "title": "Les programmes sont vérifiés",
+        "description": "Vexly vérifie les informations essentielles avant de publier chaque programme dans la marketplace."
+      },
+      {
+        "_key": "comparer",
+        "_type": "object",
+        "week": "Étape 3",
+        "title": "Les créateurs explorent les opportunités",
+        "description": "Ils comparent les SaaS, les commissions, les audiences et les conditions pour identifier les programmes les plus pertinents."
+      },
+      {
+        "_key": "rejoindre",
+        "_type": "object",
+        "week": "Étape 4",
+        "title": "Les créateurs rejoignent les programmes",
+        "description": "Ils accèdent au programme officiel du SaaS, obtiennent leur lien affilié et commencent à promouvoir le produit."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Questions fréquentes",
+    "items": [
+      {
+        "_key": "definition",
+        "_type": "object",
+        "q": "Qu’est-ce que Vexly Affiliés ?",
+        "a": "Vexly est une marketplace qui rassemble des programmes d’affiliation SaaS et facilite leur découverte par les créateurs de contenu."
+      },
+      {
+        "_key": "pour-createurs",
+        "_type": "object",
+        "q": "Vexly est-il destiné aux créateurs ?",
+        "a": "Oui. Les créateurs peuvent découvrir et comparer des programmes SaaS adaptés à leur audience, puis rejoindre les programmes qui les intéressent."
+      },
+      {
+        "_key": "pour-editeurs",
+        "_type": "object",
+        "q": "Vexly est-il destiné aux éditeurs SaaS ?",
+        "a": "Oui. Les éditeurs peuvent référencer leur programme afin de gagner en visibilité auprès de créateurs susceptibles de promouvoir leur produit."
+      },
+      {
+        "_key": "paiements",
+        "_type": "object",
+        "q": "Vexly gère-t-il les liens affiliés et les commissions ?",
+        "a": "Vexly facilite la découverte et la mise en relation. La génération des liens, le suivi des ventes et le paiement des commissions sont gérés par le programme officiel de chaque SaaS."
+      },
+      {
+        "_key": "referencement",
+        "_type": "object",
+        "q": "Comment référencer un SaaS sur Vexly ?",
+        "a": "L’éditeur remplit un formulaire avec les informations relatives à son produit et à son programme. La soumission est ensuite vérifiée avant sa publication."
+      },
+      {
+        "_key": "choix-programme",
+        "_type": "object",
+        "q": "Comment choisir un bon programme d’affiliation SaaS ?",
+        "a": "Il faut notamment vérifier la pertinence du produit pour son audience, le montant de la commission, son caractère récurrent ou non, la durée du cookie et les conditions du programme."
+      }
+    ]
+  },
+  "finalCta": {
+    "title": "Créateurs et éditeurs, développez-vous ensemble",
+    "subtitle": "Découvrez des programmes SaaS à promouvoir ou référencez votre produit pour rencontrer de nouveaux partenaires.",
+    "primaryCtaLabel": "Rejoindre Vexly"
+  }
+}
