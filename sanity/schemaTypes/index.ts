@@ -1,4 +1,5 @@
 import { articleType } from "./articleType";
+import { affiliateProgramType } from "./affiliateProgramType";
 import { categoryType } from "./categoryType";
 import { comparisonPageType } from "./comparisonPageType";
 import { featuresSectionType } from "./featuresSectionType";
@@ -13,6 +14,7 @@ import { toolPage } from "./toolPage";
 
 export const schemaTypes = [
   articleType,
+  affiliateProgramType,
   categoryType,
   hubPageType,
   comparisonPageType,
